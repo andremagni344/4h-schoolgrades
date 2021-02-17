@@ -6,7 +6,7 @@ namespace PROVA
     {
         static void Main(string[] args)
         {
-            Console.Write("4h-shoolgrades")
+            Console.Write("4h-shoolgrades");
         }
     }
 }
